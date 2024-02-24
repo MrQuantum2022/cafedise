@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  background-color: orange;
+}
+.heading {
+  position: absolute;
+  font-family: style script;
+  color:rgb(235, 48, 48);
+  left: 45%;
+ 
+  top: 20%;
+}
+h1{
+  text-shadow: 5px 5px 5px rgb(255, 235, 14);
+  font-size: 70px;
+}
+.background-decor{
+    display: flex;
+    flex-direction: column;
+    height:auto;
+    align-items:flex-start;
+    justify-content:flex-start;
+    /* border: 1px black solid ; */
+}
+.food_png{
+    width: 100%;
+    /* border: 1px black solid ; */
+}
